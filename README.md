@@ -6,7 +6,7 @@
 
 Go to the original repository on GitHub.
 Click on the "Fork" button in the top-right corner of the page.
-This will create a copy of the repository in your GitHub account. (only one member from each group should fork the repository.
+This will create a copy of the repository in your GitHub account. (only one member from each group should fork the repository)
 
 **Step 2:** Clone the Repository
 
